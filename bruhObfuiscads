@@ -1,4 +1,3 @@
-
 -- init
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
@@ -1696,3 +1695,4 @@ do
 		end
 	end
 end
+return library
